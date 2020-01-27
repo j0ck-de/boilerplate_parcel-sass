@@ -1,0 +1,16 @@
+{
+  "name": "boilerplate_parcel-sass",
+  "version": "1.0.0",
+  "description": "A boilerplate with parcel and sass for quick setup",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "Josef Molz",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "node-sass": "^4.13.1"
+  }
+}
